@@ -1,5 +1,5 @@
 <h2 data-ke-size="size26"><span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';"><b><b>DFL(DeepFaceLab)실행 환경 설정</b></b></span></h2>
-<p><span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">DFL은 중국에서 개발 및 배포된 소스로, 소스 영상에서 얼굴을 추출하여 타겟 영상에 합성, 손쉽게 Deep fake를 만들 수 있음</span></p>
+<p><span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">DFL은 중국에서 개발 및 배포된 소스로, 소스 영상에서 얼굴을 추출하여 타겟 영상에 합성, 손쉽게 Deep fake를 만들 수 있음<br>사진/영상 포함 포스팅 : https://wonder-j.tistory.com/14?category=778607 </span></p>
 <p><span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">출처 : <a href="https://github.com/dream80/DeepFaceLab_Linux" target="_blank" rel="noopener">DeepFaceLab</a></span></p>
 <h3 data-ke-size="size23"><span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';"><b><a href="https://m.blog.naver.com/PostView.nhn?blogId=dsz08082&amp;logNo=221185332846&amp;proxyReferer=https:%2F%2Fwww.google.com%2F" target="_blank" rel="noopener">아나콘다 설치</a></b></span></h3>
 <h3 data-ke-size="size23"><span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';"><b>DFL 가상환경 만들기</b></span></h3>
