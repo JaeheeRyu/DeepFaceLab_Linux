@@ -80,7 +80,7 @@ export DFL_SRC="../"</code></pre>
 <li><span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">학습이 정상적으로 실행되면 아래와 같은 미리보기 이미지가 workspace/model에 저장됨</span></li>
 </ul>
 <pre id="code_1589276588960" class="python" data-ke-language="python" data-ke-type="codeblock"><code>$ ./6_train_SAE.sh</code></pre>
-<p><img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FOHjTN%2FbtqD3c4aWb4%2FZAQQ7itguCFlsWVH8nMej0%2Fimg.jpg"><br>iter : 100<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FB0pmU%2FbtqD8hhYgzs%2FVs31gk6Wo5H1BIWHiw1zjK%2Fimg.jpg"><br>iter : 20,000</p>
+<p><img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FOHjTN%2FbtqD3c4aWb4%2FZAQQ7itguCFlsWVH8nMej0%2Fimg.jpg"><br>iter : 100<br><img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FB0pmU%2FbtqD8hhYgzs%2FVs31gk6Wo5H1BIWHiw1zjK%2Fimg.jpg"><br>iter : 20,000</p>
 <h3><span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">7. Convert</span></h3>
 <pre id="code_1589347791029" class="python" data-ke-language="python" data-ke-type="codeblock"><code>$ ./7_convert_{사용한 모델명}.sh</code></pre>
 <ul style="list-style-type: disc;" data-ke-list-type="disc">
@@ -92,7 +92,7 @@ export DFL_SRC="../"</code></pre>
 원본 이미지(좌) 합성된 이미지(우)<br></p>
 <ul style="list-style-type: disc;" data-ke-list-type="disc">
 <li><span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">위 예시에서 알 수 있듯 완벽히 합성되지 않는 frame 들이 있다(사실상 자연스러운 부분이 더 적음)</span></li>
-<li><span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">턱의 검은 건 왜 생긴지 알 수가 없고, 미표한 표정의 변화까지 완벽히 합성되지는 않는 모양</span></li>
+<li><span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';"><u>턱의 검은 건 왜 생긴지 알 수가 없고,</u> 아이유 영상에서 마이크를 들고 말하는 부분이 있는데 그 부분을 source로 합성, 검은 부분이 생겼고, 미표한 표정의 변화까지 완벽히 합성되지는 않는 모양</span></li>
 </ul>
 <h3><span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">8. mp4 영상으로 추출</span></h3>
 <ul style="list-style-type: disc;" data-ke-list-type="disc">
