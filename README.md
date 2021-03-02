@@ -100,9 +100,7 @@ export DFL_SRC="../"</code></pre>
 </ul>
 <pre id="code_1589348245613" class="python" data-ke-language="python" data-ke-type="codeblock"><code>$ ./8_converted_to_mp4.sh</code></pre>
 <p>&nbsp;</p>
-[![합성된 딥페이크 영상](https://img.youtube.com/vi/qyB2GVonMrw/0.jpg)](https://www.youtube.com/watch?v=qyB2GVonMrw?t=0s) 
-
-<figcaption>합성된 딥페이크 영상</figcaption>
+<figcaption>합성된 딥페이크 영상 : https://youtu.be/qyB2GVonMrw</figcaption>
 </figure>
 <h3><span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">9. review</span></h3>
 <ul style="list-style-type: disc;" data-ke-list-type="disc">
