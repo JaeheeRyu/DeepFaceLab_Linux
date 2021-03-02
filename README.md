@@ -100,7 +100,8 @@ export DFL_SRC="../"</code></pre>
 </ul>
 <pre id="code_1589348245613" class="python" data-ke-language="python" data-ke-type="codeblock"><code>$ ./8_converted_to_mp4.sh</code></pre>
 <p>&nbsp;</p>
-<figure data-ke-type="video" data-ke-style="alignCenter" data-video-host="kakaotv" data-video-url="https://tv.kakao.com/channel/3568028/cliplink/408988123" data-video-thumbnail="https://scrap.kakaocdn.net/dn/tqbyA/hyF2CQOsv0/50kHHFQZbHk4Bu6AAcaU4K/img.png?width=854&amp;height=480&amp;face=286_92_455_277,https://scrap.kakaocdn.net/dn/ZOH7S/hyF1FVTDEc/h2gm9ntIegC4BkQZGMHFuk/img.jpg?width=640&amp;height=360&amp;face=0_0_640_360" data-video-width="854" data-video-height="480" data-ke-mobilestyle="widthContent" data-video-play-service="daum_tistory"><iframe src="https://play-tv.kakao.com/embed/player/cliplink/408988123?service=daum_tistory" width="854" height="480" frameborder="0" allowfullscreen="true"></iframe>
+[![합성된 딥페이크 영상](https://img.youtube.com/vi/qyB2GVonMrw/0.jpg)](https://www.youtube.com/watch?v=qyB2GVonMrw?t=0s) 
+
 <figcaption>합성된 딥페이크 영상</figcaption>
 </figure>
 <h3><span style="font-family: 'Noto Sans Demilight', 'Noto Sans KR';">9. review</span></h3>
